@@ -27,7 +27,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <today_version>1.0.0-SNAPSHOT</today_version>
-        <spring_boot_version>2.1.6.RELEASE</spring_boot_version>
+        <spring_boot_version>2.5.12</spring_boot_version>
         <spring-cloud.version>Dalston.RELEASE</spring-cloud.version>
         <lombok_version>1.18.8</lombok_version>
         <google-collections.version>1.0</google-collections.version>
