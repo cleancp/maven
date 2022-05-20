@@ -39,7 +39,7 @@
         <pagehelper.spring.version>1.2.12</pagehelper.spring.version>
 
         <fastjson.version>1.2.59</fastjson.version>
-        <gson_version>2.8.5</gson_version>
+        <gson_version>2.8.9</gson_version>
         <junit.version>4.12</junit.version>
 
     </properties>
